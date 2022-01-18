@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @asandikci Aliberk SANDIKÇI
-- 👀 I’m interested in Competittive Programming and Machine Learning
-- 🌱 I’m currently learning C++ and Python 
+- 👀 I’m interested in Competittive Programming
+- 🌱 I’m currently learning C++ and more complex algorithms
 - 📫 How to reach me aliberksandikci@gmail.com
 
+My Codeforces Handle is: asandikci 
 
 <!---
 asandikci/asandikci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
