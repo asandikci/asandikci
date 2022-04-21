@@ -36,9 +36,14 @@ Take a look:
 <div align="center">
 
 </div>
+<br><hr><br>
 
 
 <!-- GITHUB STATISTICS -->
+<div align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
+
 <br>
 
 <!-- - 👀 I’m interested in Competittive Programming
