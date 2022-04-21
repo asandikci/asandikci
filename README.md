@@ -54,9 +54,9 @@ TO-DO:
 <!-- MY WORKSPACE -->
 <div> 
   <p><strong><u>My Workspace:</u></strong></p>
-  <p><strong>OS:</strong> Ubuntu 20.04.4 LTS <img src="https://aliberksandikci.com.tr//github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"></p>
-  <p><strong>Desktop:</strong> GNOME 3.36.8 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
-  <p><strong>Code Editors:</strong> <img src="https://aliberksandikci.com.tr//github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"> Sublime Text (for C,C++), <img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"> Visual Studio Code (for Python, HTML, CSS, JavaScript)
+  <p><strong>&bull;OS:</strong> Ubuntu 20.04.4 LTS <img src="https://aliberksandikci.com.tr//github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <strong>&bull;Desktop:</strong> GNOME 3.36.8 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
+  <p><strong>&bull;Code Editors:</strong> <img src="https://aliberksandikci.com.tr//github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"> Sublime Text (for C,C++), <img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"> Visual Studio Code (for Python, HTML, CSS, JavaScript)
 </div>
 
 <br>
