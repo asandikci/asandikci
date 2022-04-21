@@ -41,6 +41,7 @@ TO-DO:
   <p>who is also interested in <i>Artificial Intelligence</i>, <i>Cyber Security</i>, and basic <i>Web Developing</i></p>
 </div>
 <hr>
+<img src="https://aliberksandikci.com.tr/github/images/shape.gif" align="right" width="100" alt="[GraphGif]" hspace="50">
 <div align="left" title="More About Me">
   <p><strong><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"> Languages I've Learned* So Far:</strong> C, C++, HTML
   </p>
