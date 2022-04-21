@@ -8,18 +8,20 @@ Take a look:
 <!-- WELCOME -->
 <div align="center" title="Hello!">
   <h1> 
-    <img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png">
+    <a href="aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png"></a>
     Hello There
     <img width="50px" src="https://aliberksandikci.com.tr/github/images/wave.gif">
      I am Aliberk Sandıkçı
-    <img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png">
+    <a href="aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png"></a>
   </h1>
 </div>
 
 <!-- MORE INFORMATION ABOUT ME -->
 <br>
 <div align="center" title="More Information About Me">
-<img src="https://komarev.com/ghpvc/?username=asandikci&color=0266D7&style=for-the-badge&label=Profile+views" alt="[Profile Views]" loading="eager"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Age-15-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Focus-Competitive Programming-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Lives-Turkey-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Languages-Turkish & English-0266D7?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=asandikci&color=0266D7&style=for-the-badge&label=Profile+views" alt="[Profile Views]" loading="eager">
+
+<img src="https://img.shields.io/badge/Age-15-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Focus-Competitive Programming-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Lives-Turkey-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Languages-Turkish & English-0266D7?style=for-the-badge">
 </div>
 <hr>
 
