@@ -15,3 +15,8 @@ jobs:
           config_timezone: Europe/Istanbul
           token: ${{ secrets.METRICS_TOKEN }}
           config_presets: "@lunar-red"
+          base: header
+          extras_css: |
+          h2 {
+            color: red;
+          }
