@@ -29,13 +29,14 @@ Take a look:
 
 <!-- Main Accounts (Width:75)-->
 <div align="center">
-  <a href="https://codeforces.com/profile/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/codeforces-circle.png" alt="[Codeforces Logo]"></a> <a href="https://www.hackerrank.com/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/hackerrank-circle.png" alt="[HackerRank Logo]"></a> <a href="https://www.linkedin.com/in/asandikci/" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/linkedin-circle.webp" alt="[LinkedIn Logo]"></a> <a href="http://discordapp.com/users/951181198380646401" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/discord-circle.svg" alt="[Discord Logo]"></a> <a href="mailto:aliberksandikci@gmail.com" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/mail-circle.png" alt="[Codeforces Logo]"></a>
+  <a href="https://codeforces.com/profile/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/codeforces-circle.png" alt="[Codeforces Logo]"></a> <a href="https://www.hackerrank.com/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/hackerrank-circle.png" alt="[HackerRank Logo]"></a> <a href="https://www.linkedin.com/in/asandikci/" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/linkedin-circle.webp" alt="[LinkedIn Logo]"></a> <a href="http://discordapp.com/users/951181198380646401" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/discord-circle.svg" alt="[Discord Logo]"></a> <a href="mailto:aliberksandikci@gmail.com" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/mail-circle.png" alt="[Mail Logo]"></a>
 </div>
 
 <!-- Other Accounts (Width:50)-->
 <div align="center">
-
+   <a href="https://www.instagram.com/aliberksandikci/" target="_blank"><img width="50" src="https://aliberksandikci.com.tr/github/images/instagram-circle.jpg" alt="[Instagram Logo]"></a> <a href="https://aliberksandikci.com.tr" target="_blank"><img width="50" src="https://aliberksandikci.com.tr/github/images/web-circle.png" alt="[Web Logo]"></a> 
 </div>
+
 <br><hr><br>
 
 
