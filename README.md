@@ -33,6 +33,11 @@ TO-DO:
 </div>
 <hr>
 
+<!-- ABOUT ME -->
+<div align="center" title="About Me">
+  <h3>Competitive Programmer | AI Enthusiast</h3>
+</div>
+
 <!-- SOCIAL MEDIA | ACCOUNTS -->
 
 <!-- Main Accounts (Width:75)-->
@@ -42,15 +47,16 @@ TO-DO:
 
 <!-- Other Accounts (Width:30)-->
 <div align="center">
-   <a href="https://www.instagram.com/aliberksandikci/" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/instagram-circle.png?ver=1.1" alt="[Instagram Logo]" title="Instagram"></a> <a href="https://aliberksandikci.com.tr" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/web-circle.png?ver=1.1" alt="[Web Logo]" title="WebSite"></a> <a href="https://www.kaggle.com/asandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/kaggle-circle.png?ver=1.1" alt="[Kaggle Logo]" title="Kaggle"></a> <a href="https://www.sololearn.com/profile/23875322" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/sololearn-circle.png?ver=1.1" alt="[Sololearn Logo]" title="Sololearn"></a>
+   <a href="https://www.instagram.com/aliberksandikci/" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/instagram-circle.png?ver=1.1" alt="[Instagram Logo]" title="Instagram"></a> <a href="https://aliberksandikci.com.tr" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/web-circle.png?ver=1.1" alt="[Web Logo]" title="WebSite"></a> <a href="https://www.kaggle.com/asandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/kaggle-circle.png?ver=1.1" alt="[Kaggle Logo]" title="Kaggle"></a> <a href="https://www.sololearn.com/profile/23875322" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/sololearn-circle.png?ver=1.1" alt="[Sololearn Logo]" title="Sololearn"></a> <a href="https://tryhackme.com/p/asandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/tryhackme-circle.png?ver=1.1" alt="[TryHackMe Logo]" title="TryHackMe"></a> <a href="https://app.hackthebox.com/profile/1021574" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/hackthebox-circle.png?ver=1.1" alt="[HackTheBox Logo]" title="HackTheBox"></a> <a href="https://auth.geeksforgeeks.org/user/aliberksandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/geeksforgeeks-circle.png?ver=1.1" alt="[GeeksForGeeks Logo]" title="GeeksForGeeks"></a> <a href="https://atcoder.jp/users/asandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/atcoder-circle.png?ver=1.1" alt="[AtCoder Logo]" title="AtCoder"></a> <a href="https://algoleague.com/profile/asandikci/overview" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/algoleague-circle.png?ver=1.1" alt="[AlgoLeague Logo]" title="AlgoLeague"></a>
 </div>
+
 
 <br><hr><br>
 
 
 <!-- GITHUB STATISTICS -->
 <div align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="https://github.com/asandikci/asandikci/blob/758f7a986f90277fcac03eefc5c936767c7b366c/github-metrics.svg" alt="Metrics" width="400">
 </div>
 
 <br>
