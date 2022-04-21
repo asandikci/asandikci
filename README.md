@@ -10,6 +10,7 @@ TO-DO:
 * Add more pictures
 * Make picture's size equal
 * Add more information about me
+* Remove Extra "New Line" between elements (Code is not readable :/)
 -->
 
 <!-- WELCOME -->
@@ -36,12 +37,12 @@ TO-DO:
 
 <!-- Main Accounts (Width:75)-->
 <div align="center">
-  <a href="https://codeforces.com/profile/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/codeforces-circle.png?ver=1.1" alt="[Codeforces Logo]"></a> <a href="https://www.hackerrank.com/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/hackerrank-circle.png?ver=1.1" alt="[HackerRank Logo]"></a> <a href="https://www.linkedin.com/in/asandikci/" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/linkedin-circle.png?ver=1.2" alt="[LinkedIn Logo]"></a> <a href="http://discordapp.com/users/951181198380646401" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/discord-circle.png?ver=1.1" alt="[Discord Logo]"></a> <a href="mailto:aliberksandikci@gmail.com" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/mail-circle.png?ver=1.1" alt="[Mail Logo]"></a>
+  <a href="https://codeforces.com/profile/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/codeforces-circle.png?ver=1.1" alt="[Codeforces Logo]" title="Codeforces"></a> <a href="https://www.hackerrank.com/asandikci" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/hackerrank-circle.png?ver=1.1" alt="[HackerRank Logo]" title="HackerRank"></a> <a href="https://www.linkedin.com/in/asandikci/" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/linkedin-circle.png?ver=1.2" alt="[LinkedIn Logo]" title="LinkedIn"></a> <a href="http://discordapp.com/users/951181198380646401" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/discord-circle.png?ver=1.1" alt="[Discord Logo]" title="Discord"></a> <a href="mailto:aliberksandikci@gmail.com" target="_blank"><img width="75" src="https://aliberksandikci.com.tr/github/images/mail-circle.png?ver=1.1" alt="[Mail Logo]" title="Mail"></a>
 </div>
 
 <!-- Other Accounts (Width:30)-->
 <div align="center">
-   <a href="https://www.instagram.com/aliberksandikci/" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/instagram-circle.png?ver=1.1" alt="[Instagram Logo]"></a> <a href="https://aliberksandikci.com.tr" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/web-circle.png?ver=1.1" alt="[Web Logo]"></a> 
+   <a href="https://www.instagram.com/aliberksandikci/" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/instagram-circle.png?ver=1.1" alt="[Instagram Logo]" title="Instagram"></a> <a href="https://aliberksandikci.com.tr" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/web-circle.png?ver=1.1" alt="[Web Logo]" title="WebSite"></a> <a href="https://www.kaggle.com/asandikci" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/kaggle-circle.png?ver=1.1" alt="[Kaggle Logo]" title="Kaggle"></a> <a href="https://www.sololearn.com/profile/23875322" target="_blank"><img width="30" src="https://aliberksandikci.com.tr/github/images/sololearn-circle.png?ver=1.1" alt="[Sololearn Logo]" title="Sololearn"></a>
 </div>
 
 <br><hr><br>
