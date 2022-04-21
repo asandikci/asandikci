@@ -18,5 +18,5 @@ jobs:
           base: header
           extras_css: |
           h2 {
-            color: red;
+            color: blue;
           }
