@@ -1,8 +1,4 @@
 <!--
-Take a look:
-* https://github.com/LuNiZz/awesome-github-profile-readme-templates/edit/master/ASovindu.md
-* https://github.com/LuNiZz/awesome-github-profile-readme-templates/blob/master/KasRoudra.md (And KasRoudra's current profile)
-* https://github.com/LuNiZz/awesome-github-profile-readme-templates/blob/master/MUHAMMADFAIZANHAIDAR.md
 
 TO-DO:
 * Add Links for external pictures
@@ -43,14 +39,25 @@ TO-DO:
 <hr>
 <img src="https://aliberksandikci.com.tr/github/images/shape.gif" align="right" width="100" alt="[GraphGif]" hspace="50">
 <div align="left" title="More About Me">
-  <p><strong><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"> Languages I've Learned* So Far:</strong> C, C++, HTML
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"> Languages I've learned* So Far:</strong> C, C++, HTML
   </p>
-  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]"> Languages I'm Learning*:</strong> CSS, Python, JavaScript, Bash </p>
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]"> Languages I'm learning*:</strong> CSS, Python, JavaScript, Bash </p>
   <p><strong><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"> Projects I'm working on:</strong> a GNOME Extension, 
   <p><strong><img src="https://aliberksandikci.com.tr/github/images/marathonRun4.png" width="30" alt="[MarathonRun]"> Competitions I'm preparing for:</strong> 2022 National Olymiads in Informatics, an AI (Image Processing) Project for <a href="https://www.teknofest.org/en/" target="_blank">TeknoFest2022</a>
 </div>
 <sup>*Learn: Knowing languages general "syntax", (otherwise there is always something to know :D )</sup>
 
+<br>
+<hr>
+<br>
+
+<!-- MY WORKSPACE -->
+<div> 
+  <p><strong><u>My Workspace:</u></strong></p>
+  <p><strong>OS:</strong> Ubuntu 20.04.4 LTS <img src="https://aliberksandikci.com.tr//github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"></p>
+  <p><strong>Desktop:</strong> GNOME 3.36.8 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
+  <p><strong>Code Editors:</strong> <img src="https://aliberksandikci.com.tr//github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"> Sublime Text (for C,C++), <img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"> Visual Studio Code (for Python, HTML, CSS, JavaScript)
+</div>
 
 <br>
 <hr>
