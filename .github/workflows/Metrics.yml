@@ -14,3 +14,4 @@ jobs:
         with:
           config_timezone: Europe/Istanbul
           token: ${{ secrets.METRICS_TOKEN }}
+          config_presets: "@lunar-red"
