@@ -29,19 +29,12 @@ Take a look:
 <br>
 <div>
   <p>
-    <img align="left" src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]">
+    <img align="left" width="400" src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]">
   </p>
   <p>
-     <img align="right" src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]" >
+     <img align="right" width="400" src="https://metrics.lecoq.io/asandikci?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%2Cbytes-size&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&config.timezone=Europe%2FIstanbul" alt="[Github Stats]" >
   </p>
 </div>
-&nbsp;
-<hr>
-
-
-
-
-
 <!-- - 👀 I’m interested in Competittive Programming
 - 🌱 I’m currently learning C++ and more complex algorithms
 - 📫 How to reach me aliberksandikci@gmail.com
