@@ -8,11 +8,11 @@ Take a look:
 <!-- WELCOME -->
 <div align="center" title="Hello!">
   <h1> 
-    <a href="aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png"></a>
+    <a href="https://aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png"></a>
     Hello There
     <img width="50px" src="https://aliberksandikci.com.tr/github/images/wave.gif">
      I am Aliberk Sandıkçı
-    <a href="aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png"></a>
+    <a href="https://aliberksandikci.com.tr/github/images/github.html" target="_blank"><img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png"></a>
   </h1>
 </div>
 
