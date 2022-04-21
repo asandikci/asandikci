@@ -3,6 +3,13 @@ Take a look:
 * https://github.com/LuNiZz/awesome-github-profile-readme-templates/edit/master/ASovindu.md
 * https://github.com/LuNiZz/awesome-github-profile-readme-templates/blob/master/KasRoudra.md (And KasRoudra's current profile)
 * https://github.com/LuNiZz/awesome-github-profile-readme-templates/blob/master/MUHAMMADFAIZANHAIDAR.md
+
+TO-DO:
+* Add Links for external pictures
+* Tidy Website that includes images
+* Add more pictures
+* Make picture's size equal
+* Add more information about me
 -->
 
 <!-- WELCOME -->
