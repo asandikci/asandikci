@@ -26,7 +26,7 @@ TO-DO:
 
 <!-- MORE INFORMATION ABOUT ME -->
 <br>
-<div align="center" title="More Information About Me">
+<div align="center" title="Quick Info">
 <img src="https://komarev.com/ghpvc/?username=asandikci&color=red&style=for-the-badge&label=Profile+views" alt="[Profile Views]" loading="eager">
 
 <img src="https://img.shields.io/badge/Age-15-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Focus-Competitive Programming-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Lives-Turkey-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Languages-Turkish & English-0266D7?style=for-the-badge">
@@ -36,8 +36,24 @@ TO-DO:
 <!-- ABOUT ME -->
 <div align="center" title="About Me">
   <h3>Competitive Programmer | AI Enthusiast</h3>
+  <p>Hello, I am <i>Aliberk Sandıkçı</i> a 10th Grade High School Student from <a href="https://ifl.meb.k12.tr/">Izmir Science High School</a></p>
+  <p>a <strong>Competitive Programmer</strong> that currently has a <strong>Bronze Medal</strong><img src="https://aliberksandikci.com.tr/github/images/bronzeMedal.png?ver=1.1" width="15"> in National Olympiads in Informatics</p>
+  <p>who is also interested in <i>Artificial Intelligence</i>, <i>Cyber Security</i>, and basic <i>Web Developing</i></p>
 </div>
+<hr>
+<div align="left" title="More About Me">
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"> Languages I've Learned* So Far:</strong> C, C++, HTML
+  </p>
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]"> Languages I'm Learning*:</strong> CSS, Python, JavaScript, Bash </p>
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"> Projects I'm working on:</strong> a GNOME Extension, 
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/marathonRun4.png" width="30" alt="[MarathonRun]"> Competitions I'm preparing for:</strong> 2022 National Olymiads in Informatics, an AI (Image Processing) Project for <a href="https://www.teknofest.org/en/" target="_blank">TeknoFest2022</a>
+</div>
+<sup>*Learn: Knowing languages general "syntax", (otherwise there is always something to know :D )</sup>
 
+
+<br>
+<hr>
+<br>
 <!-- SOCIAL MEDIA | ACCOUNTS -->
 
 <!-- Main Accounts (Width:75)-->
