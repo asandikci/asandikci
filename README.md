@@ -19,22 +19,23 @@ Take a look:
 <!-- MORE INFORMATION ABOUT ME -->
 <br>
 <div align="center" title="More Information About Me">
-<img src="https://komarev.com/ghpvc/?username=asandikci&color=0266D7&style=for-the-badge&label=Profile+views" alt="[Profile Views]" loading="eager">
+<img src="https://komarev.com/ghpvc/?username=asandikci&color=red&style=for-the-badge&label=Profile+views" alt="[Profile Views]" loading="eager">
 
-<img src="https://img.shields.io/badge/Age-15-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Focus-Competitive Programming-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Lives-Turkey-lightgrey?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Languages-Turkish & English-0266D7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Age-15-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Focus-Competitive Programming-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Lives-Turkey-0266D7?style=for-the-badge"> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Languages-Turkish & English-0266D7?style=for-the-badge">
 </div>
 <hr>
 
 <!-- GITHUB STATISTICS -->
 <br>
 <div>
-  <p align="left">
-    <img src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]">
+  <p>
+    <img align="left" src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]">
   </p>
-  <p align="right">
-    
+  <p>
+     <img align="right" src="https://metrics.lecoq.io/asandikci?template=classic&base.metadata=0&followup=1&activity=1&discussions=1&followup.sections=repositories&followup.indepth=false&&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FIstanbul" alt="[Github Stats]" >
   </p>
 </div>
+&nbsp;
 <hr>
 
 
