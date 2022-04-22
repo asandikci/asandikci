@@ -84,4 +84,4 @@ TO-DO:
 </div>
 
 <br>
-<sub><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank">Reach images in this file</a></sub>
+<sub><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank">Reach contents in this file</a></sub>
