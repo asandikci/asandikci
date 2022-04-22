@@ -84,9 +84,4 @@ TO-DO:
 </div>
 
 <br>
-
-<!-- - 👀 I’m interested in Competittive Programming
-- 🌱 I’m currently learning C++ and more complex algorithms
-- 📫 How to reach me aliberksandikci@gmail.com
-
-My Codeforces Handle is: asandikci -->
+<sub><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank">Reach images in this file</a></sub>
