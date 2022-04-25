@@ -79,9 +79,9 @@ TO-DO:
 
 
 <!-- GITHUB STATISTICS -->
-<div align="center">
+<!--<div align="center">
 <img align="center" src="https://github.com/asandikci/asandikci/blob/758f7a986f90277fcac03eefc5c936767c7b366c/github-metrics.svg" alt="Metrics" width="400">
-</div>
+</div>-->
 
 <br>
 <sub><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank">Reach contents in this file</a></sub>
