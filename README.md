@@ -14,7 +14,7 @@ TO-DO:
   <h1> 
     <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png?ver=1.1"></a>
     Hello There
-    <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img width="50px" src="https://aliberksandikci.com.tr/github/images/wave.gif"></a>
+    <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img width="50" src="https://aliberksandikci.com.tr/github/images/wave.gif"></a>
      I am Aliberk Sandıkçı
     <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png?ver=1.1"></a>
   </h1>
