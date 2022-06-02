@@ -42,7 +42,7 @@ TO-DO:
   <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"></a> Languages I've learned* So Far:</strong> C, C++, HTML
   </p>
   <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]"></a> Languages I'm learning*:</strong> CSS, Python, JavaScript, Bash </p>
-  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"></a> Projects I'm working on:</strong> a GNOME Extension, <a href="https://aliberksandikci.com.tr">Website Development</a>
+  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"></a> Projects I'm working on:</strong> a GNOME Extension, Website Development
   <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/marathonRun4.png" width="30" alt="[MarathonRun]"></a> Competitions I'm preparing for:</strong> 2022 National Olymiads in Informatics, an AI (Image Processing) Project for <a href="https://www.teknofest.org/en/" target="_blank">TeknoFest2022</a>
 </div>
 <sup>*Learn: Knowing languages general "syntax", (otherwise there is always something to know :D )</sup>
