@@ -55,7 +55,7 @@ TO-DO:
 <div> 
   <p><strong><u>My Workspace:</u></strong></p>
   <p><strong>&bull;OS:</strong> Ubuntu 22.04 LTS <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <strong>&bull;Desktop:</strong> GNOME 42.0 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
+  <strong>&bull;Desktop:</strong> GNOME 42.1 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
   <p><strong>&bull;Code Editors:</strong> <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"></a> Sublime Text (for C,C++), <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"></a> Visual Studio Code (for Python, HTML, CSS, JavaScript)
 </div>
 
