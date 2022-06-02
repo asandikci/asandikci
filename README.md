@@ -12,11 +12,11 @@ TO-DO:
 <!-- WELCOME -->
 <div align="center" title="Hello!">
   <h1> 
-    <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png?ver=1.1"></a>
+    <img align="left" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration9.png?ver=1.1">
     Hello There
-    <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img width="50" src="https://aliberksandikci.com.tr/github/images/wave.gif"></a>
+   <img width="50" src="https://aliberksandikci.com.tr/github/images/wave.gif">
      I am Aliberk Sandıkçı
-    <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png?ver=1.1"></a>
+   <img align="right" width="100px" src="https://aliberksandikci.com.tr/github/images/textDecoration10.png?ver=1.1">
   </h1>
 </div>
 
@@ -33,17 +33,17 @@ TO-DO:
 <div align="center" title="About Me">
   <h3>Competitive Programmer | AI Enthusiast</h3>
   <p>Hello, I am <i>Aliberk Sandıkçı</i> a 10th Grade High School Student from <a href="https://ifl.meb.k12.tr/">Izmir Science High School</a></p>
-  <p>a <strong>Competitive Programmer</strong> that currently has a <strong>Bronze Medal</strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/bronzeMedal.png?ver=1.1" width="15"></a> in National Olympiads in Informatics</p>
+  <p>a <strong>Competitive Programmer</strong> that currently has a <strong>Bronze Medal</strong><img src="https://aliberksandikci.com.tr/github/images/bronzeMedal.png?ver=1.1" width="15"> in National Olympiads in Informatics</p>
   <p>who is also interested in <i>Artificial Intelligence</i>, <i>Cyber Security</i>, and basic <i>Web Developing</i></p>
 </div>
 <hr>
-<a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/shape.gif" align="right" width="100" alt="[GraphGif]" hspace="50"></a>
+<img src="https://aliberksandikci.com.tr/github/images/shape.gif" align="right" width="100" alt="[GraphGif]" hspace="50">
 <div align="left" title="More About Me">
-  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"></a> Languages I've learned* So Far:</strong> C, C++, HTML
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/charts.gif?ver=1.1" width="30" alt="[ChartGif]"> Languages I've learned* So Far:</strong> C, C++, HTML
   </p>
-  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]"></a> Languages I'm learning*:</strong> CSS, Python, JavaScript, Bash </p>
-  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"></a> Projects I'm working on:</strong> a GNOME Extension, Website Development
-  <p><strong><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr/github/images/marathonRun4.png" width="30" alt="[MarathonRun]"></a> Competitions I'm preparing for:</strong> 2022 National Olymiads in Informatics, an AI (Image Processing) Project for <a href="https://www.teknofest.org/en/" target="_blank">TeknoFest2022</a>
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Developer.gif" width="30" alt="[DeveloperGif]">Languages I'm learning*:</strong> CSS, Python, JavaScript, Bash </p>
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/Designer.gif" width="30" alt="[DesignerGif]"> Projects I'm working on:</strong> a GNOME Extension, Website Development
+  <p><strong><img src="https://aliberksandikci.com.tr/github/images/marathonRun4.png" width="30" alt="[MarathonRun]"> Competitions I'm preparing for:</strong> 2022 National Olymiads in Informatics, an AI (Image Processing) Project for <a href="https://www.teknofest.org/en/" target="_blank">TeknoFest2022</a>
 </div>
 <sup>*Learn: Knowing languages general "syntax", (otherwise there is always something to know :D )</sup>
 
@@ -54,9 +54,9 @@ TO-DO:
 <!-- MY WORKSPACE -->
 <div> 
   <p><strong><u>My Workspace:</u></strong></p>
-  <p><strong>&bull;OS:</strong> Ubuntu 22.04 LTS <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <strong>&bull;Desktop:</strong> GNOME 42.1 <img src="https://aliberksandikci.com.tr//github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
-  <p><strong>&bull;Code Editors:</strong> <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"></a> Sublime Text (for C,C++), <a href="https://aliberksandikci.com.tr/github/github.html" target="_blank"><img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"></a> Visual Studio Code (for Python, HTML, CSS, JavaScript)
+  <p><strong>&bull;OS:</strong> Ubuntu 22.04 LTS <img src="https://aliberksandikci.com.tr/github/images/UbuntuLogo.png" width="20" alt="[UbuntuLogo]"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <strong>&bull;Desktop:</strong> GNOME 42.1 <img src="https://aliberksandikci.com.tr/github/images/Gnome2.png" width="20" alt="[GnomeLogo]"></p>
+  <p><strong>&bull;Code Editors:</strong> <img src="https://aliberksandikci.com.tr/github/images/sublime-text-logo.png?ver=1.1" width="20" alt="[Sublime Text]"> Sublime Text (for C,C++), <img src="https://aliberksandikci.com.tr//github/images/VSCode-logo.png" width="20" alt="[VisualStudioCode Logo]"> Visual Studio Code (for Python, HTML, CSS, JavaScript)
 </div>
 
 <br>
@@ -84,4 +84,3 @@ TO-DO:
 </div>-->
 
 <br>
-<sub><a href="https://aliberksandikci.com.tr/github/github.html" target="_blank">Reach contents in this file</a></sub>
